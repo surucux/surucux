@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋👩‍💻I’m Berfin Surucu! Senior Computer Science Student @Sabanci University  <br>
+👋👩‍💻I’m Berfin Surucu! Junior Computer Science Student @Sabanci University  <br>
 👀 I’m interested in Front-End, Mobile Development! Always ready to learn more!<br>
 👥 currently working at Kavak.com in Product Team <br>
 📫 Reach me -> via LinkedIn (Berfin Sürücü) https://www.linkedin.com/in/berfinsurucu/
