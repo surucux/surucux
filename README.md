@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 
 
 <h4>PROJECTS</h4>
-<h5>Mobile Application | Inner-Silence Meditation Application</h5>
+<h5>Mobile Application | Inner-Silence Meditation Application - Swift</h5>
   
   
-<h5>Mobile Application | Sinapps Social Media Application</h5>
+<h5>Mobile Application | Sinapps Social Media Application - Flutter</h5>
 
   
-<h5>Server-Client | GUI</h5>
+<h5>Server-Client | GUI - C#</h5>
   
-<h5>Web Application | Formula 1 Relational Database MS</h5>
+<h5>Web Application | Formula 1 Relational Database MS - PHP</h5>
 
   
-<h5>Data Science | TMDB Top 5000 Movie</h5>
+<h5>Data Science | TMDB Top 5000 Movie - Python</h5>
 
   
-<h5>Calculus Curriculum| Supervised by Prof. Kağan Kurşungöz</h5>
+<h5>Calculus Curriculum| Supervised by Prof. Kağan Kurşungöz - Python</h5>
