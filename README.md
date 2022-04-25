@@ -18,3 +18,21 @@ Here are some ideas to get you started:
 👀 I’m interested in Front-End, Mobile Development! Always ready to learn more!<br>
 👥 currently working at Kavak.com in Product Team <br>
 📫 Reach me -> via LinkedIn (Berfin Sürücü) https://www.linkedin.com/in/berfinsurucu/
+
+
+<h4>PROJECTS</h4>
+<h5>Mobile Application | Inner-Silence Meditation Application</h5>
+  
+  
+<h5>Mobile Application | Sinapps Social Media Application</h5>
+
+  
+<h5>Server-Client | GUI</h5>
+  
+<h5>Web Application | Formula 1 Relational Database MS</h5>
+
+  
+<h5>Data Science | TMDB Top 5000 Movie</h5>
+
+  
+<h5>Calculus Curriculum| Supervised by Prof. Kağan Kurşungöz</h5>
