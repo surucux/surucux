@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋👩‍💻I’m Berfin Surucu! Computer Science @Sabanci University  <br>
-👀 I’m interested in Front-End, Mobile Development! Always ready to learn more!<br>
+👋👩‍💻I’m Berfin Surucu! Senior Computer Science student @ Sabanci University  <br>
+👀 I’m interested in Mobile Development and Web Development! Always ready to learn more!<br>
 👥 currently working as iOS Dev at KiraPratik <br>
 📫 Reach me -> via LinkedIn (Berfin Sürücü) https://www.linkedin.com/in/berfinsurucu/
 
