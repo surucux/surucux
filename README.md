@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋👩‍💻I’m Berfin Surucu! Computer Science @Sabanci University  <br>
 👀 I’m interested in Front-End, Mobile Development! Always ready to learn more!<br>
-👥 currently working as iOS Dev <br>
+👥 currently working as iOS Dev at KiraPratik <br>
 📫 Reach me -> via LinkedIn (Berfin Sürücü) https://www.linkedin.com/in/berfinsurucu/
 
 
