@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋👩‍💻I’m Berfin Surucu! Senior Computer Science student @ Sabanci University  <br>
 👀 I’m interested in Mobile Development and Web Development! Always ready to learn more!<br>
-👥 currently working as Cyber Security Intern at IBM
+👥 currently working as Cyber Security Consultant at IBM
 📫 Reach me -> via LinkedIn (Berfin Sürücü) https://www.linkedin.com/in/berfinsurucu/
 
 
