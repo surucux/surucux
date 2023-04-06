@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 👋👩‍💻I’m Berfin Surucu! Senior Computer Science student @ Sabanci University  <br>
 👀 I’m interested in Offensive Cyber Security! Always ready to learn more!<br>
-👥 currently working as Cyber Security Consultant at IBM
+👥 currently working as Cyber Security Consultant at IBM <br>
 📫 Reach me -> via LinkedIn (Berfin Sürücü) https://www.linkedin.com/in/berfinsurucu/
-🌱 I'm currently learning AWS Cloud Security
-🔭 I've worked as iOS/Flutter Mobile Developer as well
+🌱 I'm currently learning AWS Cloud Security <br>
+🔭 I've worked as iOS/Flutter Mobile Developer as well <br>
 
 
 <h4>PROJECTS</h4>
