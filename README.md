@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋👩‍💻I’m Berfin Surucu! Senior Computer Science student @ Sabanci University  <br>
-👀 I’m interested in Mobile Development and Web Development! Always ready to learn more!<br>
+👀 I’m interested in Offensive Cyber Security! Always ready to learn more!<br>
 👥 currently working as Cyber Security Consultant at IBM
 📫 Reach me -> via LinkedIn (Berfin Sürücü) https://www.linkedin.com/in/berfinsurucu/
+🌱 I'm currently learning AWS Cloud Security
+🔭 I've worked as iOS/Flutter Mobile Developer as well
 
 
 <h4>PROJECTS</h4>
