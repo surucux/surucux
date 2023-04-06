@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 
 <h4>PROJECTS</h4>
+
+<h5>Cyber Security Research | Russia-Ukraine IoT Honeypot Attack Analysis </h5>
+
 <h5>Mobile Application | Inner-Silence Meditation Application - Swift</h5>
   
   
